@@ -1,6 +1,11 @@
 # 맥 OS
 .DS_Store
 
+# 특정 확장자
+.project
+.settings
+.gitignore
+
 # 파일명 제외
 module-info.java
 
